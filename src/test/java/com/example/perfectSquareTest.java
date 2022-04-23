@@ -15,4 +15,5 @@ public class perfectSquareTest {
       assertEquals(p.nextPerfectSquare(0), 1);
       assertEquals(p.nextPerfectSquare(-5), 0);
   }
+
 }

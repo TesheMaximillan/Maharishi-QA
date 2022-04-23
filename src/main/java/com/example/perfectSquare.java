@@ -18,11 +18,4 @@ public class perfectSquare {
     }
     return perfectSquare;
   }
-      /**
-     * Says hello to the world.
-     * @param args The arguments of the program.
-     */
-    public static void main(String[] args) {
-      
-  }
 }
