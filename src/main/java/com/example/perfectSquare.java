@@ -5,6 +5,7 @@ public class perfectSquare {
   /**
    * @result perfectSquare
    * @param num the argument which is used to find the next perfect square
+   * @return the next perfect square number of num
    */
   public int nextPerfectSquare(int num) {
     int perfectSquare = 1;

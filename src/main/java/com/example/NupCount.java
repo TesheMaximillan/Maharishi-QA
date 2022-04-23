@@ -2,9 +2,9 @@ package com.example;
 
 public class NupCount {
     /**
-   * @result perfectSquare
    * @param a  the argument which is the collection of numbers
    * @param num the edge to be upconunt
+   * @return the number of upcount from num
    */
   public int upCount(int[] a, int num) {
     int upcount = 0;
