@@ -1,13 +1,12 @@
 package com.example;
 
-import java.util.ArrayList;
-
 public class Inertial {
 
   /**
    * @param a array parameters to evaluated for inertia
    * @return 1 if it's inertia otherwise it returns 0
    */
+  // Time Complexity: O(n)
   public int isInertia(int[] a) {
     if(a.length < 2) return 0;
     int max = a[0], odd = 0;

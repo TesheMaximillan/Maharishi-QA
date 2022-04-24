@@ -5,6 +5,7 @@ public class SquarePair {
    * @param a  the argument which is the collection of numbers
    * @return the number of squarePair from array
    */
+  // Time Complexity: O(n^2)
   public int squarePair(int[] a) {
     int squarePair = 0;
     if (a.length < 2) return squarePair;

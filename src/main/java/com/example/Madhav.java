@@ -7,6 +7,7 @@ public class Madhav {
    * @param end   the end line to stop checking prime
    * @return the number of prime numbers between start and end
    */
+  // Time Complexity: O(n^2)
   public int isMadhavArray(int[] a) {
     int isMadhav = 0, base = a[0], partialSum, n = 2;
 

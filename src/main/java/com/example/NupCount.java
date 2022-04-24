@@ -1,5 +1,6 @@
 package com.example;
 
+// Time Complexity: O(n)
 public class NupCount {
     /**
    * @param a  the argument which is the collection of numbers

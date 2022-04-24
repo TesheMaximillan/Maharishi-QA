@@ -6,6 +6,7 @@ public class PrimeCount {
    * @param end   the end line to stop checking prime
    * @return the number of prime numbers between start and end
    */
+  // Time Complexity: O(n^2)
   public int primeCount(int start, int end) {
     int primeCount = 0;
     if (start <= end && end > 1) {
