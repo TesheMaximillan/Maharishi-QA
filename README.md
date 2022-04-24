@@ -1,6 +1,6 @@
 # Maharishi-QA
 
-> In this project I tried to solve Maharishi interance exam by considering time and space of the data structure concept.
+> In this project I tried to solve Maharishi interance exam.
 
 ***
 
