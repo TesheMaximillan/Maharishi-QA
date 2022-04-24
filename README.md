@@ -2,6 +2,12 @@
 
 > In this project I tried to solve Maharishi interance exam by considering time and space of the data structure concept.
 
+***
+
+## **All The files are located in the `src` director**
+
+***
+
 ## Solutions
 
 - src\main\java\com\example\
@@ -12,7 +18,7 @@
 
 ## Questions
 
-- [Question](src\Questions.pdf)
+- src\Questions.pdf
 
 ## How to use
 
