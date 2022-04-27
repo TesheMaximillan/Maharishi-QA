@@ -3,9 +3,8 @@ package com.example;
 public class Madhav {
     
   /**
-   * @param start the starting point to check the prime
-   * @param end   the end line to stop checking prime
-   * @return the number of prime numbers between start and end
+   * @param a   array elements checked for madhave condition
+   * @return 1 if the array is madhav else return 0
    */
   // Time Complexity: O(n^2)
   public int isMadhavArray(int[] a) {
