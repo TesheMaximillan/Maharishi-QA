@@ -20,4 +20,21 @@ public class NupCount {
 
     return upcount;
   }
+
+  public int upCountSoln2(int[] a, int n) {
+    int upcount = 0;
+    int partialSum = 0;
+
+    for (int i : a) {
+      if (partialSum <= n) {
+        partialSum += i;
+        if (partialSum > n)
+          upcount++;
+      } else {
+        partialSum += i;
+      }
+    }
+
+    return upcount;
+  }
 }
